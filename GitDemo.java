@@ -35,6 +35,7 @@ public class GitDemo {
         }
         
         return factorialNumber;
+    }
     
     /*****
      * This function should reverse 'num' and return the resulting value.
